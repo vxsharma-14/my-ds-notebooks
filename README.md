@@ -22,11 +22,13 @@ Collaborations on projects are always welcome!
 
 ## Projects
 
-1. Airline Customer Tweets Data for Sentiment Analysis using Twitter API.  
-Notebook link: [airline-custtweets-using-twitter-api.ipynb](airline-custtweets-using-twitter-api.ipynb)
-Associated files:  
-    - Data File - [airline_twitter.csv](airline_twitter.csv)
-    - US Airlines name and Twitter handle data - [us_airlines.json](us_airlines.json)
+### 1. Airline Customer Tweets Data for Sentiment Analysis using Twitter API.
+
+**Notebook link:** [airline-custtweets-using-twitter-api.ipynb](airline-custtweets-using-twitter-api.ipynb)  
+
+**Associated files:**  
+- **Data File** - [airline_twitter.csv](airline_twitter.csv)  
+- **US Airlines name and Twitter handle data** - [us_airlines.json](us_airlines.json)
 
 ## License
 
